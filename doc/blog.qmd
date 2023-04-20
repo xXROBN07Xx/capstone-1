@@ -3,7 +3,7 @@ title: "My awesome blog"
 subtitle: "Spring 2023"
 author: "Prof. Yuster"
 bibliography: references.bib
-number-sections: true
+number-sections: false
 format:
   html:
     theme: default
