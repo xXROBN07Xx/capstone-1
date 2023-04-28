@@ -10,11 +10,17 @@ format:
     rendering: embed-resources
     code-fold: true
     code-tools: true
+    toc: true
   pdf: default
 jupyter: python3
 ---
 
+
+![Source: Ramapo College of New Jersey](https://www.ramapo.edu/tours/wp-content/uploads/sites/344/2020/10/Fall-Arch-Straigh-Edit.jpg){fig-alt="A photo of the arch at Ramapo College."}
+
+
 # Welcome
+
 
 **Welcome** to *my* ~~super~~ SUPER awesome `blog` post!
 $$x^2 = 1$$
